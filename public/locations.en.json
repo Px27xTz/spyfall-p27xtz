@@ -1,0 +1,782 @@
+[
+  {
+    "name": "🏖️Beach",
+    "roles": [
+      "Lifeguard",
+      "Surfer",
+      "Tourist",
+      "Vendor",
+      "Photographer",
+      "Swimmer",
+      "Fisherman",
+      "Child"
+    ]
+  },
+  {
+    "name": "🎰Casino",
+    "roles": [
+      "Dealer",
+      "Security Guard",
+      "Gambler",
+      "Cashier",
+      "Manager",
+      "Bartender",
+      "Tourist",
+      "Magician"
+    ]
+  },
+  {
+    "name": "🏥Hospital",
+    "roles": [
+      "Doctor",
+      "Nurse",
+      "Patient",
+      "Surgeon",
+      "Receptionist",
+      "Paramedic",
+      "Janitor",
+      "Family Visitor"
+    ]
+  },
+  {
+    "name": "✈️Airplane",
+    "roles": [
+      "Captain",
+      "First Officer",
+      "Flight Attendant",
+      "Passenger",
+      "Air Marshal",
+      "Machinist",
+      "Child",
+      "Business Traveler"
+    ]
+  },
+  {
+    "name": "🍽️Restaurant",
+    "roles": [
+      "Chef",
+      "Waiter/Waitress",
+      "Manager",
+      "Food Critic",
+      "Customer",
+      "Dishwasher",
+      "Receptionist",
+      "Sommelier"
+    ]
+  },
+  {
+    "name": "🏫School",
+    "roles": [
+      "Teacher",
+      "Student",
+      "Principal",
+      "Janitor",
+      "Librarian",
+      "Coach",
+      "Counselor",
+      "Parent"
+    ]
+  },
+  {
+    "name": "🎭Theater",
+    "roles": [
+      "Performer",
+      "Director",
+      "Make-up Artist",
+      "Audience",
+      "Ticket Seller",
+      "Usher",
+      "Sound Engineer",
+      "Stagehand"
+    ]
+  },
+  {
+    "name": "🚆Train",
+    "roles": [
+      "Ticket Inspector",
+      "Train Engineer",
+      "Passenger",
+      "Conductor",
+      "Tourist",
+      "Musician",
+      "Hawker",
+      "University Student"
+    ]
+  },
+  {
+    "name": "🚓Police Station",
+    "roles": [
+      "Police Officer",
+      "Detective",
+      "Suspect",
+      "Dispatcher",
+      "Chief",
+      "Forensic Technician",
+      "Lawyer",
+      "Visitor"
+    ]
+  },
+  {
+    "name": "🚀Space Station",
+    "roles": [
+      "Commander",
+      "Scientist",
+      "Engineer",
+      "Doctor",
+      "Pilot",
+      "Space Tourist",
+      "A.I.",
+      "Robotics Tech"
+    ]
+  },
+  {
+    "name": "🎢Amusement Park",
+    "roles": [
+      "Ride Operator",
+      "Tourist",
+      "Ticket Seller",
+      "Technician",
+      "Clown Performer",
+      "Photographer",
+      "Security Guard",
+      "Housekeeper"
+    ]
+  },
+  {
+    "name": "🏛️Museum",
+    "roles": [
+      "Curator",
+      "Guide",
+      "Visitor",
+      "Archaeologist",
+      "Security Guard",
+      "Restoration Tech",
+      "Student",
+      "Artist"
+    ]
+  },
+  {
+    "name": "✈️Airport",
+    "roles": [
+      "Check-in Agent",
+      "Passenger",
+      "Safety Officer",
+      "Customs Officer",
+      "Pilot",
+      "Baggage Handler",
+      "Flight Attendant",
+      "Tourist"
+    ]
+  },
+  {
+    "name": "🚢Cruise Ship",
+    "roles": [
+      "Captain",
+      "Crew",
+      "Cook",
+      "Tourist",
+      "Performer",
+      "Ship Doctor",
+      "Safety Officer",
+      "Machinist"
+    ]
+  },
+  {
+    "name": "⛩️Temple",
+    "roles": [
+      "Monk",
+      "Worshipper",
+      "Temple Caretaker",
+      "Nun",
+      "Guide",
+      "Photographer",
+      "Flower Seller",
+      "Temple Boy"
+    ]
+  },
+  {
+    "name": "🏪Flea Market",
+    "roles": [
+      "Vendor",
+      "Customer",
+      "Cash Collector",
+      "Food Vendor",
+      "Tourist",
+      "Busker",
+      "Security Guard",
+      "Cleaner"
+    ]
+  },
+  {
+    "name": "🏬Department Store",
+    "roles": [
+      "Salesperson",
+      "Customer",
+      "Floor Manager",
+      "Security Guard",
+      "Cashier",
+      "Promoter",
+      "Stock Clerk",
+      "Technician"
+    ]
+  },
+  {
+    "name": "🏨Hotel",
+    "roles": [
+      "Receptionist",
+      "Guest",
+      "Housekeeper",
+      "Manager",
+      "Butler",
+      "Bellhop",
+      "Chef",
+      "Bartender"
+    ]
+  },
+  {
+    "name": "🎬Cinema",
+    "roles": [
+      "Projectionist",
+      "Popcorn Seller",
+      "Audience",
+      "Manager",
+      "Security Guard",
+      "Audio Technician",
+      "Cleaner",
+      "Reviewer"
+    ]
+  },
+  {
+    "name": "🏊Swimming Pool",
+    "roles": [
+      "Lifeguard",
+      "Swim Coach",
+      "Athlete",
+      "Parent",
+      "Child",
+      "Technician",
+      "Ticket Seller",
+      "Housekeeper"
+    ]
+  },
+  {
+    "name": "☕Café",
+    "roles": [
+      "Barista",
+      "Customer",
+      "Cashier",
+      "Manager",
+      "Writer",
+      "Student",
+      "Photographer",
+      "Musician"
+    ]
+  },
+  {
+    "name": "🏟️Stadium",
+    "roles": [
+      "Athlete",
+      "Coach",
+      "Referee",
+      "Fan",
+      "Photographer",
+      "Groundskeeper",
+      "Nurse",
+      "Journalist"
+    ]
+  },
+  {
+    "name": "🦁Zoo",
+    "roles": [
+      "Zookeeper",
+      "Veterinarian",
+      "Tourist",
+      "Guide",
+      "Photographer",
+      "Pet Food Seller",
+      "Student",
+      "Security Guard"
+    ]
+  },
+  {
+    "name": "📚Library",
+    "roles": [
+      "Librarian",
+      "Reader",
+      "Student",
+      "Researcher",
+      "Manager",
+      "IT Technician",
+      "Volunteer",
+      "Security Guard"
+    ]
+  },
+  {
+    "name": "🚇Subway Station",
+    "roles": [
+      "Station Controller",
+      "Passenger",
+      "Ticket Seller",
+      "Security Guard",
+      "Busker",
+      "Technician",
+      "Cleaner",
+      "Tourist"
+    ]
+  },
+  {
+    "name": "🔧Workshop",
+    "roles": [
+      "Machinist",
+      "Customer",
+      "Assistant Barber",
+      "Manager",
+      "Courier",
+      "Apprentice",
+      "Shop Owner",
+      "Cashier"
+    ]
+  },
+  {
+    "name": "🏢Office",
+    "roles": [
+      "Office Worker",
+      "Manager",
+      "Housekeeper",
+      "IT Dept.",
+      "Finance Dept.",
+      "Customer",
+      "Receptionist",
+      "Intern"
+    ]
+  },
+  {
+    "name": "🏛️Court",
+    "roles": [
+      "Judge",
+      "Lawyer",
+      "Defendant",
+      "Plaintiff",
+      "Court Officer",
+      "Witness",
+      "Journalist",
+      "Audience"
+    ]
+  },
+  {
+    "name": "🏞️Public Park",
+    "roles": [
+      "Jogger",
+      "Dog Walker",
+      "Cyclist",
+      "Photographer",
+      "Ice-cream Seller",
+      "Musician",
+      "Park Cleaner",
+      "Gardener"
+    ]
+  },
+  {
+    "name": "🦷Dental Clinic",
+    "roles": [
+      "Dentist",
+      "Dental Assistant",
+      "Patient",
+      "Receptionist",
+      "Dental Prosthetist",
+      "Child",
+      "Parent",
+      "Manager"
+    ]
+  },
+  {
+    "name": "🏕️Military Camp",
+    "roles": [
+      "Commander",
+      "Recruit",
+      "Drill Instructor",
+      "Marksman",
+      "Armorer",
+      "Combat Medic",
+      "Cook",
+      "Sentry"
+    ]
+  },
+  {
+    "name": "⛵Harbor",
+    "roles": [
+      "Harbor Master",
+      "Fisherman",
+      "Porter",
+      "Ship Captain",
+      "Tourist",
+      "Security Guard",
+      "Machinist",
+      "Merchant"
+    ]
+  },
+  {
+    "name": "🎓University",
+    "roles": [
+      "Professor",
+      "University Student",
+      "Registrar",
+      "Janitor",
+      "Researcher",
+      "Librarian",
+      "Security Guard",
+      "Visitor"
+    ]
+  },
+  {
+    "name": "🎶Concert",
+    "roles": [
+      "Singer",
+      "Guitarist",
+      "Sound Engineer",
+      "Audience",
+      "Security",
+      "Event Organizer",
+      "Lighting Tech",
+      "Photographer"
+    ]
+  },
+  {
+    "name": "📸Photo Studio",
+    "roles": [
+      "Photographer",
+      "Model",
+      "Make-up Artist",
+      "Assistant",
+      "Customer",
+      "Art Director",
+      "Lighting Tech",
+      "Editor"
+    ]
+  },
+  {
+    "name": "🏛️Wedding",
+    "roles": [
+      "Groom",
+      "Bride",
+      "Photographer",
+      "MC",
+      "Guest",
+      "Band",
+      "Caterer",
+      "Wedding Planner"
+    ]
+  },
+  {
+    "name": "🏛️Convention Center",
+    "roles": [
+      "Event Organizer",
+      "Speaker",
+      "Attendee",
+      "Technician",
+      "Registrar",
+      "Security Guard",
+      "Photographer",
+      "Housekeeper"
+    ]
+  },
+  {
+    "name": "🏞️Skating Rink",
+    "roles": [
+      "Coach",
+      "Skater",
+      "Maintenance Tech",
+      "Audience",
+      "Ticket Seller",
+      "Security Guard",
+      "DJ",
+      "Child"
+    ]
+  },
+  {
+    "name": "🏞️Aquarium",
+    "roles": [
+      "Marine Biologist",
+      "Aquarist",
+      "Tourist",
+      "Technician",
+      "Diver",
+      "Photographer",
+      "Child",
+      "Guide"
+    ]
+  },
+  {
+    "name": "🏔️Mountain",
+    "roles": [
+      "Mountain Guide",
+      "Mountaineer",
+      "Park Ranger",
+      "Photographer",
+      "Field Researcher",
+      "Tourist",
+      "Food Vendor",
+      "Rescuer"
+    ]
+  },
+  {
+    "name": "🏞️Cave",
+    "roles": [
+      "Cave Explorer",
+      "Guide",
+      "Tourist",
+      "Biologist",
+      "Lighting Tech",
+      "Rock Climber",
+      "Photographer",
+      "Safety Officer"
+    ]
+  },
+  {
+    "name": "🏡Farm",
+    "roles": [
+      "Farmer",
+      "Milker",
+      "Veterinarian",
+      "Tractor Driver",
+      "Merchant",
+      "Harvester",
+      "Tourist",
+      "Child"
+    ]
+  },
+  {
+    "name": "🏕️Off-road Camp",
+    "roles": [
+      "Trip Leader",
+      "Driver",
+      "Repair Tech",
+      "Cook",
+      "Traveler",
+      "Photographer",
+      "Safety Officer",
+      "Guide"
+    ]
+  },
+  {
+    "name": "💈Barbershop",
+    "roles": [
+      "Barber",
+      "Customer",
+      "Assistant Barber",
+      "Shaver",
+      "Cashier",
+      "Manager",
+      "Child",
+      "Courier"
+    ]
+  },
+  {
+    "name": "🎮Game Store",
+    "roles": [
+      "Shop Clerk",
+      "Gamer",
+      "Tournament Organizer",
+      "Caster/Commentator",
+      "Technician",
+      "Security Guard",
+      "Streamer",
+      "Child"
+    ]
+  },
+  {
+    "name": "🎙️Recording Studio",
+    "roles": [
+      "Producer",
+      "Singer",
+      "Audio Engineer",
+      "Musician",
+      "Songwriter",
+      "Artist Manager",
+      "Technician",
+      "Listener"
+    ]
+  },
+  {
+    "name": "📻Radio Station",
+    "roles": [
+      "DJ",
+      "Producer",
+      "Guest",
+      "Technician",
+      "Listener",
+      "Manager",
+      "Journalist",
+      "Security Guard"
+    ]
+  },
+  {
+    "name": "🔬Laboratory",
+    "roles": [
+      "Scientist",
+      "Research Assistant",
+      "Technician",
+      "Lab Manager",
+      "University Student",
+      "Safety Officer",
+      "Nurse",
+      "Guest"
+    ]
+  },
+  {
+    "name": "⛳Golf Course",
+    "roles": [
+      "Golf Pro",
+      "Caddie",
+      "Golfer",
+      "Greenskeeper",
+      "Manager",
+      "Pro-shop Staff",
+      "Security Guard",
+      "Tourist"
+    ]
+  },
+  {
+    "name": "🚌Bus Terminal",
+    "roles": [
+      "Ticket Seller",
+      "Coach Driver",
+      "Passenger",
+      "Porter",
+      "Security Guard",
+      "Machinist",
+      "Housekeeper",
+      "Vendor"
+    ]
+  },
+  {
+    "name": "⛽Gas Station",
+    "roles": [
+      "Pump Attendant",
+      "Customer",
+      "Cashier",
+      "Manager",
+      "Machinist",
+      "Car Wash Attendant",
+      "Convenience Store Clerk",
+      "Security Guard"
+    ]
+  },
+  {
+    "name": "🍺Brewery",
+    "roles": [
+      "Master Brewer",
+      "Assistant Brewer",
+      "Bartender",
+      "Customer",
+      "Tour Guide",
+      "Technician",
+      "Manager",
+      "Delivery Driver"
+    ]
+  },
+  {
+    "name": "⛱️Spa",
+    "roles": [
+      "Therapist",
+      "Customer",
+      "Cashier",
+      "Manager",
+      "Manicurist",
+      "Receptionist",
+      "Housekeeper",
+      "Thai Masseur"
+    ]
+  },
+  {
+    "name": "📚Bookstore",
+    "roles": [
+      "Shop Clerk",
+      "Customer",
+      "Manager",
+      "Cashier",
+      "Writer",
+      "Student",
+      "Book Collector",
+      "Security Guard"
+    ]
+  },
+  {
+    "name": "🚗Car Showroom",
+    "roles": [
+      "Salesperson",
+      "Customer",
+      "Manager",
+      "Technician",
+      "Finance Staff",
+      "Registrar",
+      "Housekeeper",
+      "Security Guard"
+    ]
+  },
+  {
+    "name": "🏞️Playground",
+    "roles": [
+      "Child",
+      "Parent",
+      "Childcare Worker",
+      "Attendant",
+      "Maintenance Staff",
+      "Physiotherapist",
+      "Photographer",
+      "Security Guard"
+    ]
+  },
+  {
+    "name": "🏛️Historical Park",
+    "roles": [
+      "Guide",
+      "Tourist",
+      "Archaeologist",
+      "Heritage Site Officer",
+      "Photographer",
+      "Field Archivist",
+      "Security Guard",
+      "Vendor"
+    ]
+  },
+  {
+    "name": "🏡Fishing Village",
+    "roles": [
+      "Fisherman",
+      "Net Mender",
+      "Merchant",
+      "Seafood Vendor",
+      "Child",
+      "Tourist",
+      "Security Guard",
+      "Machinist"
+    ]
+  },
+  {
+    "name": "🏞️Floating Market",
+    "roles": [
+      "Boat Vendor",
+      "Vendor",
+      "Customer",
+      "Guide",
+      "Photographer",
+      "Tourist",
+      "Security Guard",
+      "Boatman"
+    ]
+  },
+  {
+    "name": "🎤Karaoke Bar",
+    "roles": [
+      "Amateur Singer",
+      "Receptionist",
+      "DJ",
+      "Bartender",
+      "Customer",
+      "Manager",
+      "Sound Engineer",
+      "Security Guard"
+    ]
+  }
+]
